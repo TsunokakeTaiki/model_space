@@ -9,7 +9,7 @@
 | encrypted_password | string  | null: false |
 | prefecture_id      | integer | null: false |
 | city               | string  |             |
-| admin_id           | integer | null: false |
+| admin_id           | integer |             |
 
 ### Association
 
